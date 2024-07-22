@@ -1,0 +1,21 @@
+# Ignore environment variable files
+.env
+*.env
+
+# Ignore env folder
+env/
+env/*
+
+# Ignore Docker specific files and folders
+docker-compose.override.yml
+docker-compose.local.yml
+docker-compose.dev.yml
+docker-compose.test.yml
+
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore Python virtual environment (if using Python)
+venv/
+.env/
+env/
