@@ -48,8 +48,9 @@ docker-compose up --build
 Backend: `http://localhost`
 Frontend: `http://localhost:3000`
 
-🐳 Docker Commands
-Build Images: `docker-compose build`
-Start Services: `docker-compose up`
-Stop Services: `docker-compose down`
-View Containers: `docker ps`
+## 🐳 Docker Commands
+
+- **Build Images**: `docker-compose build`
+- **Start Services**: `docker-compose up`
+- **Stop Services**: `docker-compose down`
+- **View Containers**: `docker ps`
